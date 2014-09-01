@@ -15,9 +15,9 @@ Course structure.  Microbial Informatics will consist of two hours of lecture pe
 
 Grading.  Grades will be assigned based on students’ performance in the Friday laboratories (20%) and the two projects (40% each). The first project will require students to recreate a data analysis from one of their lab’s recent publications. The second project will require students to create a package to perform a useful function that their laboratory will benefit from.
 
-Text books.  Students should obtain the following two books:
+Text books.  Students should obtain the following books:
 
-Buffalo, V (2014). Bioinformatics Data Skills [BDS]. Will provide PDF
+Buffalo, V (2014). Bioinformatics Data Skills [BDS]. Schloss will provide PDF
 
 Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition [ISwR].  $42 at Amazon.
 
@@ -25,3 +25,4 @@ Matloff, N  (2011).  The Art of R Programming [TAoRP].  $26 at Amazon
 
 Additional materials. Supplemental YouTube videos and online tutorials will be assigned.
  
+Software. You will need to install R and Rstudio
